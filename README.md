@@ -2,7 +2,7 @@
 
 A Flask-based RESTful API for managing your personal anime collection. Keep track of your favorite anime series, add new discoveries, and never forget what to watch next!
 
-## ✨ Features  (check the umesh branch it got all hte files)
+## ✨ Features  (check the umesh branch it got all the files)
 
 - **Random Anime Selection**: Get a random anime from your collection when you can't decide what to watch
 - **Add New Anime**: Easily add new anime to your ward with links
