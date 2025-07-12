@@ -24,7 +24,7 @@ Before running the Anime Ward API, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Visiter01/anime-ward-api
    cd anime-ward-api
    ```
 
@@ -61,7 +61,7 @@ Update your Flask application with your MySQL database credentials:
 DB_HOST = 'localhost'
 DB_USER = 'your_username'
 DB_PASSWORD = 'your_password'
-DB_NAME = 'anime_ward'
+DB_NAME = 'animeward'
 ```
 
 ## 🎯 API Endpoints
